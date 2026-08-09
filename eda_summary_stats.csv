@@ -1,0 +1,8 @@
+,correlation_with_survival
+sex_num,0.543
+pclass,-0.338
+fare,0.257
+alone_num,-0.203
+parch,0.082
+age,-0.065
+sibsp,-0.035
